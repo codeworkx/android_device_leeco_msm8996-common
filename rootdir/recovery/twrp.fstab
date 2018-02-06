@@ -1,3 +1,4 @@
+#borrowed from navigator twrp 3.1.1,thanks 时代的导航者
 # mount_point   fstype    device                                             flags
 /boot		emmc	/dev/block/bootdevice/by-name/boot
 /recovery	emmc	/dev/block/bootdevice/by-name/recovery	flags=backup=1
